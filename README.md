@@ -15,7 +15,13 @@ STEP-4: Else subtract the key from the plain text.
 
 STEP-5: Display the cipher text obtained above.
 
+
+#### Name: **Prahathieswaran S** 
+#### Reg No: **212225240107**
+
+
 ## PROGRAM:
+
 ```
 #include <stdio.h>
 #include <string.h>
